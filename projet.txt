@@ -1,6 +1,10 @@
 Bonjour,
 
 Le projet s'il subsiste consisterait à proposer une formation aux personnes agées.
+
 Prevoir l'ingienerie de formation.
 Prevoir la recherche de fonds.
 Team formation trouvé !
+
+
+
